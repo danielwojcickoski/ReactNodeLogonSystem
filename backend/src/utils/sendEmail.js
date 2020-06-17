@@ -1,9 +1,9 @@
 const nodemailer = require('nodemailer');
 
 const emailAuthentication = {
-  user: 'dswojcickoski@outlook.com',
-  pass: '12daniel13',
-  from: 'dswojcickoski@outlook.com'
+  user: '',
+  pass: '',
+  from: ''
 }
 
 const transporter = nodemailer.createTransport({
